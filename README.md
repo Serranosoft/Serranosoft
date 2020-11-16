@@ -7,6 +7,7 @@
 - Se que he escrito punto y coma en cada sentencia y Javascript no acabará con mi sana costumbre; ⚡
 
 ### Lenguajes y Herramientas 🤓
+
 <img width="42px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img width="42px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="42px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -15,6 +16,7 @@
 <img width="42px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img width="42px" align="left" src="https://www.flaticon.es/svg/static/icons/svg/38/38002.svg" />
 
+<br />
 <br />
 <br />
 
@@ -34,6 +36,7 @@
 [<img width="42px" align="left" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/manuel-serrano-scholz/)
 [<img width="42px" align="left" src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/infoerrores/)
 
+<br />
 <br />
 <br />
 
