@@ -27,8 +27,9 @@
 - [x] Android ➜ *XML, Material Design, Asynctasks*
 - [x] BDD ➜ *MySQL, Room*
 - [x] HTML5 / CSS3 ➜ *Flexbox, position, grid*
-- [ ] Javascript Puro ➜ Es hora de enterrar Jquery 😈
-- [ ] React.js
+- [x] Javascript Puro ➜ Es hora de enterrar Jquery 😈
+- [x] React.js
+- [ ] Node.js
 
 ### ¡Encuéntrame por aquí! 😉
 
