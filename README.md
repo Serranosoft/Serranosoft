@@ -29,6 +29,7 @@
 - [x] HTML5 / CSS3 ➜ *Flexbox, position, grid*
 - [x] Javascript Puro ➜ Es hora de enterrar Jquery 😈
 - [x] React.js
+- [x] CSS-in-JS 
 - [ ] Node.js
 
 ### ¡Encuéntrame por aquí! 😉
@@ -44,5 +45,5 @@
 
 #### O aquí tienes mi correo 🤠
 
-> manuel.serrano943@gmail.com
+> manuel@manu-scholz.com
 
